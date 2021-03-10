@@ -1,0 +1,4 @@
+#Fri Jan 11 15:33:48 CST 2019
+base.0=C\:\\Users\\Anson\\Downloads\\MultiCameraMate20\\LogicalCameraId_4\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
